@@ -1,6 +1,6 @@
-# POT.AI Template (Project Of Things-Atificial Intelligence Template)
+# POT.AI Template (Project Of Things-Artificial Intelligence Template)
 
-[POT.AI](https://potframework.com/ai) is dedicated to AI projects
+[POT.AI](https://zildot.com/framworks/pot/ai) is dedicated to AI projects
 
 
 # Packages

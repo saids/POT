@@ -1,6 +1,6 @@
 # POT.ML Template (Project Of Things-Machine Learning Template)
 
-[POT.ML](https://potframework.com/ml) is dedicated to ML projects
+[POT.ML](https://zildot.com/frameworks/pot/ml) is dedicated to ML projects
 
 
 # Packages

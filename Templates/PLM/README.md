@@ -1,6 +1,6 @@
-# POT.ML Template (Project Of Things-Machine Learning Template)
+# POT.PLM Template (Project Of Things-Project Lifecycle Management Template)
 
-[POT.ML](https://potframework.com/ml) is dedicated to ML projects
+[POT.PLM](https://potframework.com/plm) is dedicated to PLM projects
 
 
 # Packages

@@ -1,6 +1,6 @@
-# POT.ML Template (Project Of Things-Machine Learning Template)
+# POT.MCP Template (Project Of Things-Material & Capacity Management Template)
 
-[POT.ML](https://potframework.com/ml) is dedicated to ML projects
+[POT.MCP](https://zildot.com/frameworks/pot/mcp) is dedicated to MCP projects
 
 
 # Packages

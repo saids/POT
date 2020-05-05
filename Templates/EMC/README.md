@@ -1,6 +1,6 @@
-# POT.ML Template (Project Of Things-Machine Learning Template)
+# POT.ECM Template (Project Of Things-Event Management & Configuration Template)
 
-[POT.ML](https://potframework.com/ml) is dedicated to ML projects
+[POT.ECM](https://zildot.com/frameworks/pot/ecm) is dedicated to ECM projects
 
 
 # Packages

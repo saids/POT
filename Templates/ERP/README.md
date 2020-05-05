@@ -1,6 +1,6 @@
-# POT.ML Template (Project Of Things-Machine Learning Template)
+# POT.ERP Template (Project Of Things-Enterprise Resource Planning Template)
 
-[POT.ML](https://potframework.com/ml) is dedicated to ML projects
+[POT.ERP](https://zildot.com/frameworks/pot/erp) is dedicated to ERP projects
 
 
 # Packages

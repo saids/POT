@@ -1,6 +1,6 @@
 # POT.CRM Template (Project Of Things-Customer Relation Management Template)
 
-[POT.CRM](https://potframework.com/crm) is dedicated to CRM projects
+[POT.CRM](https://zildot.com/frameworks/pot/crm) is dedicated to CRM projects
 
 
 # Packages

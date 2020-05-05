@@ -1,6 +1,6 @@
 # POT.BI Template (Project Of Things-Business Intelligence Template)
 
-[POT.BI](https://potframework.com/bi) is dedicated to BI projects
+[POT.BI](https://zildot.com/frameworks/pot/bi) is dedicated to BI projects
 
 
 # Packages

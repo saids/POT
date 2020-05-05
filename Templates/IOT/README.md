@@ -1,6 +1,6 @@
 # POT.IOT Template (Project Of Things-Internet of Things Template)
 
-[POT.IOT](https://potframework.com/iot) is dedicated to IOT projects
+[POT.IOT](https://zildot.com/frameworks/pot/iot) is dedicated to IOT projects
 
 
 # Packages

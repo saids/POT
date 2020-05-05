@@ -1,7 +1,6 @@
-# POT.ML Template (Project Of Things-Machine Learning Template)
+# POT.CM Template (Project Of Things-Configuration Management Template)
 
-[POT.ML](https://potframework.com/ml) is dedicated to ML projects
-
+[POT.CM](https://zildot.com/frameworks/pot/cm) is dedicated to CM projects
 
 # Packages
 
