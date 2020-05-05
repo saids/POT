@@ -6,7 +6,7 @@ Use this framwork to create any project without hassle of handling ground work..
 
 # Packages
 
-- [Core](core/README.md)
+- [Core](https://github.com/saids/POT/blob/master/Framework/README.md)
 
 ### Getting Started
 
