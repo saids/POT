@@ -1,6 +1,6 @@
 # POT (Project Of Things)
 
-[POT](https://potframework.com/) is the open-source all-in-one progressive framework for any kind of project. 
+[POT](http://zildot.com/) is the open-source all-in-one progressive framework for any kind of project. 
 Use this framwork to create any project without hassle of handling ground work..
 
 
@@ -10,7 +10,7 @@ Use this framwork to create any project without hassle of handling ground work..
 
 ### Getting Started
 
-Start a new project by following our quick [Getting Started guide](https://potframework.com/getting-started/).
+Start a new project by following our quick [Getting Started guide](https://zildot.com).
 We would love to hear from you! If you have any feedback or run into issues using our framework, please file
 an [issue](https://github.com/saids/pot/issues/new) on this repository.
 
@@ -25,7 +25,7 @@ label.
 
 ### Examples
 
-The [Pot Basic App](https://github.com/saids/pot-basic-app) is an introductory app to pot framwork.
+The [Pot Basic App](https://github.com/saids/POT/pot-basic-app) is an introductory app to pot framework.
 It is the perfect starting point for learning and building your own app on pot framework.
 
 
