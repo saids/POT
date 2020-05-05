@@ -25,7 +25,7 @@ label.
 
 ### Examples
 
-The [Pot Basic App](https://github.com/saids/POT/pot-basic-app) is an introductory app to pot framework.
+The [Pot Basic App](https://github.com/saids/POT/tree/master/Examples/pot-basic-app) is an introductory app to pot framework.
 It is the perfect starting point for learning and building your own app on pot framework.
 
 
